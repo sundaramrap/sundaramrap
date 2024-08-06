@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sundaramrap
+- 👋 Hi, I’m PRAGYA SUDARAM
 - 👀 I’m interested in fullStack Web Dev
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Vanilla Js,React,Node.js
